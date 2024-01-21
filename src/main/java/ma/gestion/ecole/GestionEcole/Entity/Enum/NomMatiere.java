@@ -1,0 +1,5 @@
+package ma.gestion.ecole.GestionEcole.Entity.Enum;
+
+public enum NomMatiere {
+    DATA_MINING,SPRING,ANGLAIS,TEC,MACHINE_LEARNING,ERP,MARKETING,MANAGEMENT_QUALITE,JAVA,SECURITE,FLUTTER,ORACLE;
+}
